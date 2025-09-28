@@ -1,6 +1,6 @@
 # IoT Token Blynk
 
-Proyek ini adalah aplikasi sederhana yang digunakan untuk mengelola perangkat IoT yang terhubung dengan server Blynk. Aplikasi ini menyediakan beberapa endpoint untuk berinteraksi dengan perangkat IoT, seperti mendapatkan status buzzer, mengatur status buzzer, dan memperbarui lokasi perangkat.
+Proyek ini adalah aplikasi yang digunakan untuk mengelola perangkat IoT yang terhubung dengan server Blynk. Aplikasi ini menyediakan beberapa endpoint untuk berinteraksi dengan perangkat IoT, seperti mendapatkan status buzzer, mengatur status buzzer, dan memperbarui lokasi perangkat.
 
 ## Fitur Utama
 - **GET /get_buzzer_status.php**: Mendapatkan status buzzer perangkat.
